@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    background: black;
+    background-size: cover;
+}
+
+.grid-container {
+    height: 100%;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.grid-item {
+    padding: 0.3rem;
+}
